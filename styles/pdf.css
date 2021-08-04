@@ -1,0 +1,27 @@
+/* PDF Section Starts */
+.Section-pdf{
+    padding: 5%;
+    text-align: center;
+    width: 100%;
+    background-color: rgb(20, 144, 160);
+  }
+  
+  .pdf-container{
+    width: 80%;
+    margin: auto;
+    border: 3px solid black;
+    border-radius: 25px;
+    padding: 2%;
+  }
+  
+  .jumbotron{
+    width: 80%;
+    margin: auto;
+  }
+  
+  .goToSource-btn{
+     padding:2%;
+     width:50%;
+     font-size: 2rem
+  }
+  /* PDF Section Ends */

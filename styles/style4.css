@@ -1,0 +1,29 @@
+.texo{
+    width: 350px;
+    height: 300px;
+    padding-left: 10px;
+    padding-top: 5px;
+    
+}
+.gud{
+    padding-left: 50px;
+    background-color: rgb(255, 0, 85);
+    color: rgb(255, 255, 255);
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 50px;
+}
+.but
+{
+    color: purple;
+    background-color: white;
+    border: 2px solid purple;
+    transition: 0.5s;
+}
+.but:hover
+{
+    color: white;
+    background-color: purple;
+    border: 2px solid white;
+    font-size: 35px;
+}
